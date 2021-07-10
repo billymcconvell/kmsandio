@@ -13,17 +13,17 @@
 	}
 body{
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 	}
 span[lang|="en"]{
 		font-family:'Times New Roman',serif;
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 	}
 span[lang|="id"]{
 		font-family:'Times New Roman',serif;
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 	}
 div.entry{
 		text-indent:-12pt;
@@ -34,21 +34,21 @@ div.entry{
 	}
 div.entry span[lang|="en"]{
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 	}
 div.entry span[lang|="id"]{
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 	}
 .letter[lang|="en"]{
 		font-size:14pt;
 		font-weight:bold;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 	}
 .letter[lang|="id"]{
 		font-size:14pt;
 		font-weight:bold;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 	}
 div.minorentrycomplex{
 		text-indent:-12pt;
@@ -59,11 +59,11 @@ div.minorentrycomplex{
 	}
 div.minorentrycomplex span[lang|="en"]{
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 	}
 div.minorentrycomplex span[lang|="id"]{
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 	}
 div.minorentryvariant{
 		text-indent:-12pt;
@@ -74,11 +74,11 @@ div.minorentryvariant{
 	}
 div.minorentryvariant span[lang|="en"]{
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 	}
 div.minorentryvariant span[lang|="id"]{
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 	}
 a{
 		text-decoration:inherit;
@@ -90,25 +90,24 @@ a{
 		unicode-bidi:-moz-isolate;
 	}
 .entry span[lang|="en"]{
+		font-family:'Times New Roman',serif;
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 	}
 .entry span[lang|="id"]{
+		font-family:'Times New Roman',serif;
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 	}
 .entry{
 		clear:both;
 		white-space:pre-wrap;
 	}
 .entry{
-		text-indent:-12pt;
-		margin-left:21pt;
 		flex-line-height:12pt;
-		padding-bottom:2pt;
-		padding-top:1pt;
+		padding-bottom:6pt;
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 	}
 .entry> .mainheadword> span[lang|="en"]{
 		font-weight:bold;
@@ -616,30 +615,30 @@ a{
 	}
 .entry> .senses > .sensecontent > .sense> .extendednotecontents .extendednotecontent span[lang|="en"]{
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 	}
 .entry> .senses > .sensecontent > .sense> .extendednotecontents .extendednotecontent span[lang|="id"]{
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 	}
 .entry> .senses > .sensecontent > .sense> .extendednotecontents .extendednotecontent{
 		text-indent:0pt;
-		margin-left:0pt;
+		margin-left:21pt;
 		flex-line-height:12pt;
 		padding-bottom:6pt;
 		padding-right:21pt;
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 		display:block;
 	}
 .entry> .senses > .sensecontent > .sense> .extendednotecontents .extendednotecontent{
 		text-indent:0pt;
-		margin-left:0pt;
+		margin-left:21pt;
 		flex-line-height:12pt;
 		padding-bottom:6pt;
 		padding-right:21pt;
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 		display:block;
 	}
 .entry> .senses > .sensecontent > .sense> .extendednotecontents .extendednotecontent> .discussion> .discussio+ .discussio:before{
@@ -785,7 +784,7 @@ a{
 	}
 .entry> .senses > .sensecontent > .sense> .senses > .sensecontent > .sense{
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 	}
 .entry> .complexformsnotsubentries> .complexformsnotsubentry+ .complexformsnotsubentry:before{
 		content:' ';
@@ -856,11 +855,11 @@ a{
 	}
 .entry> .pictures .picture span[lang|="en"]{
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 	}
 .entry> .pictures .picture span[lang|="id"]{
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 	}
 .entry> .pictures> div+ div:before{
 		content:'  ';
@@ -870,12 +869,12 @@ a{
 	}
 .entry> .pictures .picture{
 		text-indent:0pt;
-		margin-left:0pt;
+		margin-left:21pt;
 		flex-line-height:12pt;
 		padding-bottom:2pt;
 		padding-top:0pt;
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 	}
 .entry> .pictures .picture> .captionContent .headword[lang|="en"]{
 		font-weight:bold;
@@ -894,39 +893,39 @@ a{
 	}
 .entry> .subentries .subentry span[lang|="en"]{
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 	}
 .entry> .subentries .subentry span[lang|="id"]{
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 	}
 .entry> .subentries .subentry{
 		text-indent:0pt;
-		margin-left:0pt;
+		margin-left:21pt;
 		flex-line-height:12pt;
 		padding-bottom:2pt;
 		padding-top:0pt;
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 		display:block;
 	}
 .entry> .subentries .subentry{
 		text-indent:0pt;
-		margin-left:0pt;
+		margin-left:21pt;
 		flex-line-height:12pt;
 		padding-bottom:2pt;
 		padding-top:0pt;
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 		display:block;
 	}
 .minorentrycomplex span[lang|="en"]{
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 	}
 .minorentrycomplex span[lang|="id"]{
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 	}
 .minorentrycomplex{
 		clear:both;
@@ -939,7 +938,7 @@ a{
 		padding-bottom:2pt;
 		padding-top:0pt;
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 	}
 .minorentrycomplex> .headword> span[lang|="en"]{
 		font-weight:bold;
@@ -1310,11 +1309,11 @@ a{
 	}
 .minorentrycomplex> .pictures .picture span[lang|="en"]{
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 	}
 .minorentrycomplex> .pictures .picture span[lang|="id"]{
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 	}
 .minorentrycomplex> .pictures> div+ div:before{
 		content:'  ';
@@ -1329,7 +1328,7 @@ a{
 		padding-bottom:2pt;
 		padding-top:0pt;
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 	}
 .minorentrycomplex> .pictures .picture> .captionContent .headword[lang|="en"]{
 		font-weight:bold;
@@ -1348,11 +1347,11 @@ a{
 	}
 .minorentryvariant span[lang|="en"]{
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 	}
 .minorentryvariant span[lang|="id"]{
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 	}
 .minorentryvariant{
 		clear:both;
@@ -1365,7 +1364,7 @@ a{
 		padding-bottom:2pt;
 		padding-top:0pt;
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 	}
 .minorentryvariant> .headword> span[lang|="en"]{
 		font-weight:bold;
@@ -1733,11 +1732,11 @@ a{
 	}
 .minorentryvariant> .pictures .picture span[lang|="en"]{
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 	}
 .minorentryvariant> .pictures .picture span[lang|="id"]{
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 	}
 .minorentryvariant> .pictures> div+ div:before{
 		content:'  ';
@@ -1752,7 +1751,7 @@ a{
 		padding-bottom:2pt;
 		padding-top:0pt;
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 	}
 .minorentryvariant> .pictures .picture> .captionContent .headword[lang|="en"]{
 		font-weight:bold;
@@ -2015,11 +2014,11 @@ a{
 	}
 .mainentrysubsenses .mainentrysubsense> .extendednotecontents .extendednotecontent span[lang|="en"]{
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 	}
 .mainentrysubsenses .mainentrysubsense> .extendednotecontents .extendednotecontent span[lang|="id"]{
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 	}
 .mainentrysubsenses .mainentrysubsense> .extendednotecontents .extendednotecontent{
 		text-indent:0pt;
@@ -2028,7 +2027,7 @@ a{
 		padding-bottom:6pt;
 		padding-right:21pt;
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 		display:block;
 	}
 .mainentrysubsenses .mainentrysubsense> .extendednotecontents .extendednotecontent{
@@ -2038,7 +2037,7 @@ a{
 		padding-bottom:6pt;
 		padding-right:21pt;
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 		display:block;
 	}
 .mainentrysubsenses .mainentrysubsense> .extendednotecontents .extendednotecontent> .discussion> .discussio+ .discussio:before{
@@ -2797,11 +2796,11 @@ a{
 	}
 .mainentrysubentries .mainentrysubentry> .senses > .sensecontent > .sense> .extendednotecontents .extendednotecontent span[lang|="en"]{
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 	}
 .mainentrysubentries .mainentrysubentry> .senses > .sensecontent > .sense> .extendednotecontents .extendednotecontent span[lang|="id"]{
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 	}
 .mainentrysubentries .mainentrysubentry> .senses > .sensecontent > .sense> .extendednotecontents .extendednotecontent{
 		text-indent:0pt;
@@ -2810,7 +2809,7 @@ a{
 		padding-bottom:6pt;
 		padding-right:21pt;
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 		display:block;
 	}
 .mainentrysubentries .mainentrysubentry> .senses > .sensecontent > .sense> .extendednotecontents .extendednotecontent{
@@ -2820,7 +2819,7 @@ a{
 		padding-bottom:6pt;
 		padding-right:21pt;
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 		display:block;
 	}
 .mainentrysubentries .mainentrysubentry> .senses > .sensecontent > .sense> .extendednotecontents .extendednotecontent> .discussion> .discussio+ .discussio:before{
@@ -3030,11 +3029,11 @@ a{
 	}
 .mainentrysubentries .mainentrysubentry> .pictures .picture span[lang|="en"]{
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 	}
 .mainentrysubentries .mainentrysubentry> .pictures .picture span[lang|="id"]{
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 	}
 .mainentrysubentries .mainentrysubentry> .pictures> div+ div:before{
 		content:'  ';
@@ -3049,7 +3048,7 @@ a{
 		padding-bottom:2pt;
 		padding-top:0pt;
 		font-size:20pt;
-		background-color:#C0C0C0;
+		background-color:#FFF;
 	}
 .mainentrysubentries .mainentrysubentry> .pictures .picture> .captionContent .headword[lang|="en"]{
 		font-weight:bold;
